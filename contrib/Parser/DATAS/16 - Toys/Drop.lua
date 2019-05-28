@@ -92,7 +92,11 @@ _.Toys =
 			},
 			["classes"] = {7},
 		}),
-		i(163603),		-- Lucille's Handkerchief
+		{	-- Lucille's Handkerchief
+			["itemID"] = 163603,	-- Lucille's Handkerchief
+			["races"] = ALLIANCE_ONLY,
+			--Note!! This toy is usuable only by Alliance.  Horde have zero access to it.
+		},
 		i(153194),  	-- Legion Communication Orb
 		i(140786),		-- Ley Spider Eggs
 		i(63269),		-- Loaded Gnomish Dice
