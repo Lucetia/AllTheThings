@@ -289,34 +289,4 @@ profession(182, {	-- Herbalism
 			},
 		}),
 	}),
-	n(-25, {	-- Pet Battles
-		i(153045),	-- Fel Lasher
-		i(118595),	-- Nightshade Sproutling
-	}),
-	--[===[--
-	filter(200, {	-- Recipes
-		-- Legion
-		recipe(193292),	-- Aethril [Rank 1]
-		recipe(193293),	-- Aethril [Rank 2]
-		recipe(193294),	-- Aethril [Rank 3]
-		recipe(247812),	-- Astral Glory [Rank 1]
-		recipe(247813),	-- Astral Glory [Rank 2]
-		recipe(247814),	-- Astral Glory [Rank 3]
-		recipe(193295),	-- Dreamleaf [Rank 1]
-		recipe(193296),	-- Dreamleaf [Rank 2]
-		recipe(193297),	-- Dreamleaf [Rank 3]
-		recipe(193307),	-- Felwort [Rank 1]
-		recipe(193308),	-- Felwort [Rank 2]
-		recipe(193309),	-- Felwort [Rank 3]
-		recipe(193301),	-- Fjarnskaggl [Rank 1]
-		recipe(193302),	-- Fjarnskaggl [Rank 2]
-		recipe(193303),	-- Fjarnskaggl [Rank 3]
-		recipe(193298),	-- Foxflower [Rank 1]
-		recipe(193299),	-- Foxflower [Rank 2]
-		recipe(193300),	-- Foxflower [Rank 3]
-		recipe(193304),	-- Starlight Rose [Rank 1]
-		recipe(193305),	-- Starlight Rose [Rank 2]
-		recipe(193306),	-- Starlight Rose [Rank 3]
-	}),
-	--]===]--
 });
