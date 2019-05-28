@@ -41,24 +41,45 @@ _.Achievements =
 					h(ach(12244)),	-- Allied Races: Nightborne
 					a(ach(12242)),	-- Allied Races: Void Elf
 					h(ach(13161)),	-- Allied Races: Zandalari Troll
-					a(ach(948, {	-- Ambassador of the Alliance
-						title(98),		-- Ambassador
-						faction(69),	-- Darnassus
-						faction(930),	-- Exodar
-						faction(1134),	-- Gilneas
-						faction(54),	-- Gnomeregan
-						faction(47),	-- Ironforge
-						faction(72),	-- Stormwind
-					})),
-					h(ach(762, {	-- Ambassador of the Horde
-						title(98),		-- Ambassador
-						faction(1133),	-- Bilgewater Cartel
-						faction(530),	-- Darkspear Trolls
-						faction(76),	-- Orgrimmar
-						faction(911),	-- Silvermoon City
-						faction(81),	-- Thunder Bluff
-						faction(68),	-- Undercity
-					})),
+					{	-- Ambassador of the Alliance / Ambassador of the Horde [Alliance // Horde]
+						["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+						["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+						["g"] = {
+							{	-- Ambassador <Name>
+								["titleID"] = 98,	-- Ambassador <Name>
+							},
+							{	-- Darnassus // Bilgewater Cartel
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 1,					-- Darnassus // Bilgewater Cartel
+							},
+							{	-- Exodar // Darkspear Trolls
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 4,					-- Exodar // Darkspear Trolls
+							},
+							{	-- Gilneas // Orgrimmar
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 2,					-- Gilneas // Orgrimmar
+							},
+							{	-- Gnomeregan // Silvermoon City
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 5,					-- Gnomeregan // Silvermoon City
+							},
+							{	-- Ironforge // Thunder Bluff
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 3,					-- Ironforge // Thunder Bluff
+							},
+							{	-- Stormwind // Undercity
+								["allianceAchievementID"] = 948,	-- Ambassador of the Alliance
+								["hordeAchievementID"] = 762,		-- Ambassador of the Horde
+								["criteriaID"] = 6,					-- Stormwind // Undercity
+							},
+						},
+					},
 					ach(953, {		-- Guardian of Cenarius
 						title(100),		-- ,Guardian of Cenarius
 						faction(609),	-- Cenarion Circle
