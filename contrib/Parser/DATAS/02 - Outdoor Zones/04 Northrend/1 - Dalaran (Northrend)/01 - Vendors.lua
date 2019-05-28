@@ -532,6 +532,7 @@ _.Zones =
 										["itemID"] = 82470,		-- Ancient Tome of Portal: Dalaran
 										["spellID"] = 120146,	-- Ancient Portal: Dalaran
 										["collectible"] = true,
+										["f"] = 0,
 									},
 									{	-- Dalaran Initiates' Pin Toy [Mage only]
 										["itemID"] = 137294,	-- Dalaran Initiates' Pin Toy
@@ -566,6 +567,7 @@ _.Zones =
 										["itemID"] = 44709,		-- Tome of Polymorph: Black Cat
 										["spellID"] = 61305,	-- Polymorph
 										["collectible"] = true,
+										["f"] = 0,
 									},
 								},
 							},
