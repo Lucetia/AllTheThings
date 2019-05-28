@@ -85,104 +85,126 @@ _.Achievements =
 						faction(609),	-- Cenarion Circle
 						faction(942),	-- Cenarion Expedition
 					}),
-					{	-- Heritage of Highmountain
-						["achievementID"] = 12415,	-- Heritage of Highmountain
-						["races"] = {
-							28,	-- Highmountain Tauren
-						},
+					ach(12415, {	-- Heritage of Highmountain
 						["g"] = {
-							{	-- Heritage of Highmountain
-								["spellID"] = 260718,							-- Heritage of Highmountain
-								["sym"] = {{"select", "setID", 1522}, {"pop"}},	-- Heritage of Highmountain
-							},
+							i(156668),	-- Highmountain Headdress
+							i(156669),	-- Highmountain Shoulderguards
+							i(156670),	-- Highmountain Harness
+							i(156671),	-- Highmountain Gloves
+							i(156672),	-- Highmountain Girdle
+							i(156673),	-- Highmountain Leggings
+							i(156674),	-- Highmountain Boots
+							i(156684),	-- Highmountain Bracers
 						},
-					},
-					{	-- Heritage of the Dark Iron
-						["achievementID"] = 13076,	-- Heritage of the Dark Iron
-						["races"] = {
-							34,	-- Dark Iron
-						},
+						["races"] = {28},
+					}),
+					ach(13076, {	-- Heritage of the Dark Iron
 						["g"] = {
-							{	-- Heritage of the Dark Iron
-								["spellID"] = 280417,							-- Heritage of the Dark Iron
-								["sym"] = {{"select", "setID", 1679}, {"pop"}},	-- Heritage of the Dark Iron
-							},
+							i(161015),	-- Dark Iron Bracers
+							i(161014),	-- Dark Iron Boots
+							i(161008),	-- Dark Iron Helm
+							i(161011),	-- Dark Iron Gloves
+							i(161010),	-- Dark Iron Mantle
+							i(161009),	-- Dark Iron Pauldrons
+							i(161012),	-- Dark Iron Belt
+							i(161013),	-- Dark Iron Leggings
 						},
-					},
-					{	-- Heritage of the Kul Tirans
-						["achievementID"] = 13504,	-- Heritage of the Kul Tirans
-						["races"] = {
-							32,	-- Kul Tirans
-						},
+						["races"] = {34},
+					}),
+					ach(13504, {	-- Heritage of the Kul Tirans
 						["g"] = {
-							{	-- Heritage of the Kul Tiran
-								["spellID"] = 284093,							-- Heritage of the Kul Tiran
-								["sym"] = {{"select", "setID", 1741}, {"pop"}},	-- Heritage of the Kul Tiran
-							},
+							i(165002),	-- Kul'Tiran Bicorne
+							i(165003),	-- Kul'Tiran Tasseled Pauldron
+							i(165004),	-- Kul'Tiran Longcoat
+							i(165010),	-- Tabard of Kul'Tiras
+							i(165009),	-- Kul'Tiran Bracers
+							i(165005),	-- Kul'Tiran Gloves
+							i(165006),	-- Kul'Tiran Cinch
+							i(165007),	-- Kul'Tiran Britches
+							i(165008),	-- Kul'Tiran Boots
 						},
-					},
+						["races"] = {32},
+					}),
 					{	-- Heritage of the Lightforged
 						["achievementID"] = 12414,	-- Heritage of the Lightforged
 						["races"] = {
 							30,	-- Lightforged Draenei
 						},
-						["g"] = {
-							{	-- Heritage of the Lightforged
-								["spellID"] = 260725,							-- Heritage of the Lightforged
-								["sym"] = {{"select", "setID", 1525}, {"pop"}},	-- Heritage of the Lightforged
-							},
-						},
+						--Note!! Removed the items you get since they are now linked to the quest and grants +2 rather than +3
 					},
-					{	-- Heritage of the Mag'har
-						["achievementID"] = 13077,	-- Heritage of the Mag'har
-						["races"] = {
-							36,	-- Mag'har Orcs
-						},
+					ach(12414, {	-- Heritage of the Lightforged
+						["races"] = {30},
+					}),
+					ach(13077, {	-- Heritage of the Mag'har
 						["g"] = {
-							{	-- Heritage of the Mag'har
-								["spellID"] = 280416,							-- Heritage of the Mag'har
-								["sym"] = {{"select", "setID", 1681}, {"pop"}},	-- Heritage of the Blackrock
-								["sym"] = {{"select", "setID", 1682}, {"pop"}},	-- Heritage of the Frostwolves
-								["sym"] = {{"select", "setID", 1680}, {"pop"}},	-- Heritage of the Warsong
-							},
+							i(161003),	-- Warsong Clan Bracers
+							i(160993),	-- Warsong Clan Pauldrons
+							i(160992),	-- Warsong Clan Helm
+							i(160994),	-- Warsong Clan Harness
+							i(160999),	-- Warsong Clan Gloves
+							i(161002),	-- Warsong Clan Boots
+							i(161001),	-- Warsong Clan Leggings
+							i(161000),	-- Warsong Clan Belt
+							i(161050),	-- Blackrock Clan Helm
+							i(161051),	-- Blackrock Clan Pauldrons
+							i(161052),	-- Blackrock Clan Harness
+							i(161054),	-- Blackrock Clan Gloves
+							i(161055),	-- Blackrock Clan Belt
+							i(161056),	-- Blackrock Clan Leggings
+							i(161057),	-- Blackrock Clan Boots
+							i(161058),	-- Blackrock Clan Bracers
+							i(161059),	-- Frostwolf Clan Helm
+							i(161060),	-- Frostwolf Clan Pauldrons
+							i(161061),	-- Frostwolf Clan Harness
+							i(161062),	-- Frostwolf Clan Gloves
+							i(161063),	-- Frostwolf Clan Belt
+							i(161064),	-- Frostwolf Clan Leggings
+							i(161065),	-- Frostwolf Clan Boots
+							i(161066),	-- Frostwolf Clan Bracers
 						},
-					},
-					{	-- Heritage of the Nightborne
-						["achievementID"] = 12413,	-- Heritage of the Nightborne
-						["races"] = {
-							27,	-- Nightborne
-						},
+						["races"] = {36},
+					}),
+					ach(12413, {	-- Heritage of the Nightborne
+						["questID"] = 49784,	-- Heritage of the Nightborne
+						["races"] = { 27 },	-- Nightborne
 						["g"] = {
-							{	-- Heritage of the Shal'dorei
-								["spellID"] = 260723,							-- Heritage of the Shal'dorei
-								["sym"] = {{"select", "setID", 1523}, {"pop"}},	-- Heritage of the Shal'dorei
-							},
+							i(156675),	-- Shal'dorei Crown
+							i(156676),	-- Shal'dorei Mantle
+							i(156677),	-- Shal'dorei Finery
+							i(156678),	-- Shal'dorei Gloves
+							i(156679),	-- Shal'dorei Belt
+							i(156680),	-- Shal'dorei Leggings
+							i(156681),	-- Shal'dorei Slippers
+							i(156685),	-- Shal'dorei Bracers
 						},
-					},
-					{	-- Heritage of the Void
-						["achievementID"] = 12291,	-- Heritage of the Void
-						["races"] = {
-							29,	-- Void Elves
-						},
+					}),
+					ach(12291, {	-- Heritage of the Void
 						["g"] = {
-							{	-- Heritage of the Ren'dorei
-								["spellID"] = 2650724,							-- Heritage of the Ren'dorei
-								["sym"] = {{"select", "setID", 1524}, {"pop"}},	-- Heritage of the Ren'dorei
-							},
+							i(156690),	-- Ren'dorei Helm
+							i(156691),	-- Ren'dorei Pauldrons
+							i(156692),	-- Ren'dorei Mantle
+							i(156693),	-- Ren'dorei Gloves
+							i(156694),	-- Ren'dorei Belt
+							i(156695),	-- Ren'dorei Leggings
+							i(156696),	-- Ren'dorei Boots
+							i(156697),	-- Ren'dorei Bracers
 						},
-					},
-					{	-- Heritage of the Zandalari
-						["achievementID"] = 13503,	-- Heritage of the Zandalari
-						["races"] = {
-							31,	-- Zandalari Trolls
-						},
+						["races"] = {29},
+					}),
+					ach(13503, {	-- Heritage of the Zandalari
 						["g"] = {
-							{	-- Heritage of the Zandalari
-								["spellID"] = 284091,							-- Heritage of the Zandalari
-								["sym"] = {{"select", "setID", 1742}, {"pop"}},	-- Heritage of the Zandalari
-							},
+							i(164993),	-- Zandalari Mask
+							i(164994),	-- Zandalari Pauldrons
+							i(164995),	-- Zandalari Torque
+							i(165001),	-- Tabard of the Zandalari
+							i(165000),	-- Zandalari Bracers
+							i(164996),	-- Zandalari Blade-Turners
+							i(164997),	-- Zandalari Belt
+							i(164998),	-- Zandalari Leggings
+							i(164999),	-- Zandalari Shinguards
 						},
-					},
+						["races"] = {31},
+					}),
 					ach(945, {		-- The Argent Champion
 						title(99),		-- the Argent Champion
 						faction(529),	-- Argent Dawn
