@@ -571,12 +571,8 @@ AllTheThings.L = {
 		[-655] = "Interface\\Icons\\inv_stormdragonmount2light",					-- Fierce Gladiator: Legion Season 5
 		[-656] = "Interface\\Icons\\inv_stormdragonmount2yellow",					-- Dominant Gladiator: Legion Season 6
 		[-657] = "Interface\\Icons\\inv_stormdragonmount2_fel",						-- Demonic Gladiator: Legion Season 7
-		[-658] = "Interface\\Worldmap\\GlowSkull_64Blue",							-- Combatant PvP Gear
-		[-659] = "Interface\\Worldmap\\GlowSkull_64Purple",							-- Gladator PvP Gear
-		[-660] = "Interface\\Worldmap\\GlowSkull_64Red",							-- Elite PvP Gear
 		[-1000] = "Interface\\Icons\\achievement_transmog_collections",				-- Sets
 		[-1001] = "Interface\\Icons\\Racial_Dwarf_FindTreasure",					-- The Black Vault
-		[-3158] = "Interface\\Icons\\ability_mount_protodrakegladiatormount",		-- BFA PvP Season 1
 		[-3178] = "Interface\\Icons\\achievement_boss_warlord_kalithresh",			-- Tier 3.5
 		[-3181] = "Interface\\Icons\\achievement_boss_ossiriantheunscarred",		-- Cenarion Circle Set (Ruins of Ahn'Qiraj)
 		[-3183] = "Interface\\Icons\\achievement_boss_hakkar",						-- Tier 1.5
@@ -1344,11 +1340,7 @@ AllTheThings.L = {
 		[-656] = select(2, GetAchievementInfo(12134)),							-- Dominant Gladiator: Legion Season 6
 		[-657] = select(2, GetAchievementInfo(12185)),							-- Demonic Gladiator: Legion Season 7
 		
--- PvP Set Names
-		[-658] = "Combatant Set",													-- Combatant PvP Gear
-		[-659] = "Gladiator Set",													-- Gladiator PvP Gear
-		[-660] = "Elite Set",														-- Elite PvP Gear
-	
+
 -- Pet Battles
 		[-700] = "Celestial Tournament",										-- Celestial Tournament (Scenario)
 		
