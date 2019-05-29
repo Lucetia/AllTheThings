@@ -465,6 +465,12 @@ _.Zones =
 							un(2, i(84791)),	-- Malevolent Gladiator's Decapitator (used to upgrade to elite)
 							un(2, i(85135)),	-- Elite Malevolent Gladiator's Quickblade 	-- Swords
 							un(2, i(85134)),	-- Elite Malevolent Gladiator's Slicer
+							un(2, i(84962)),	-- Malevolent Gladiator's ripper (used to upgrade to elite)
+							un(2, i(84963)),	-- Malevolent Gladiator's render (used to upgrade to elite)
+							un(2, i(84866)),	-- Malevolent Gladiator's endgame (used to upgrade to elite)
+							un(2, i(84867)),	-- Malevolent Gladiator's reprieve (used to upgrade to elite)
+							un(2, i(84965)),	-- Malevolent Gladiator's cleaver(used to upgrade to elite)
+							un(2, i(84966)),	-- Malevolent Gladiator's hacker (used to upgrade to elite)
 							un(2, i(84969)),	-- Malevolent Gladiator's Quickblade(used to upgrade to elite)
 							un(2, i(84968)),	-- Malevolent Gladiator's Slicer(used to upgrade to elite)
 							un(2, i(85112)),	-- Elite Malevolent Gladiator's Greatsword
@@ -629,7 +635,6 @@ _.Zones =
 									un(2, i(100730)), -- Grievous Gladiator's Shield Wall (Horde)
 									un(2, i(100728)), -- Grievous Gladiator's Redoubt (Horde)
 									un(2, i(100731)), -- Grievous Gladiator's Barrier (Horde)
-									un(2, i(100554)), -- Grievous Gladiator's Bonegrinder (Horde)
 								}),
 								cl(6, {	-- Death Knight
 									un(2, i(100594)), -- Grievous Gladiator's Dreadplate Gauntlets (Horde)
@@ -833,7 +838,6 @@ _.Zones =
 									un(2, i(100240)),	-- Grievous Gladiator's Touch of Defeat
 									un(2, i(100493)),	-- Grievous Gladiator's Baton of Light
 									un(2, i(100204)),	-- Grievous Gladiator's Longbow
-									un(2, i(100186)), 	-- Grievous Gladiator's Bonegrinder 
 								}),
 								cl(6, {	-- Death Knight
 									un(2, i(100244)),	-- Grievous Gladiator's Dreadplate Chestpiece
@@ -1226,6 +1230,8 @@ _.Zones =
 							un(2, i(91308)),	-- Tyrannical Gladiator's Pike
 							un(2, i(91132)),	-- Tyrannical Gladiator's Spellblade
 							un(2, i(91391)),	-- Tyrannical Gladiator's Shanker
+							un(2, i(94306)),	-- Tyrannical Gladiator's Spellblade (used 2 upgrade to elite)
+							un(2, i(94315)),	-- Tyrannical Gladiator's Shanker (used 2 upgrade to elite)
 							un(2, i(94326)),	-- Tyrannical Gladiator's Heavy Crossbow (used 2 upgrade to elite)
 							un(2, i(91146)),	-- Tyrannical Gladiator's Heavy Crossbow
 							un(2, i(91144)),	-- Tyrannical Gladiator's  Touch of Defeat

@@ -61,6 +61,8 @@ _.Zones =
 							un(2, i(91183)),	-- Tyrannical Gladiator's Staff
 							un(2, i(91208)),	-- Tyrannical Gladiator's Engery Staff
 							un(2, i(91308)),	-- Tyrannical Gladiator's Pike
+							un(2, i(91131)),	-- Tyrannical Gladiator's Spellblade (used 2 upgrade to elite)
+							un(2, i(91390)),	-- Tyrannical Gladiator's Shanker (used 2 upgrade to elite)
 							un(2, i(91132)),	-- Tyrannical Gladiator's Spellblade
 							un(2, i(91391)),	-- Tyrannical Gladiator's Shanker
 							un(2, i(91145)),	-- Tyrannical Gladiator's Heavy Crossbow (used 2 upgrade to elite)
@@ -508,7 +510,6 @@ _.Zones =
 									un(2, i(100297)), -- Grievous Gladiator's Rifle (Alliance)
 									un(2, i(100203)), -- Grievous Gladiator's Longbow (Alliance)
 									un(2, i(100492)), -- Grievous Gladiator's Baton of Light (Alliance)
-									un(2, i(1001)), 	-- Grievous Gladiator's Bonegrinder (Alliance)
 								}),
 								cl(6, {	-- Death Knight
 									un(2, i(100243)), -- Grievous Gladiator's Dreadplate Chestpiece (Alliance)
@@ -711,8 +712,7 @@ _.Zones =
 									un(2, i(100497)),	-- Grievous Gladiator's Bonecracker
 									un(2, i(100240)),	-- Grievous Gladiator's Touch of Defeat
 									un(2, i(100493)),	-- Grievous Gladiator's Baton of Light
-									un(2, i(100204)),	-- Grievous Gladiator's longbow
-									un(2, i(100186)), 	-- Grievous Gladiator's Bonegrinder 
+									un(2, i(100204)),	-- Grievous Gladiator's longbow 
 								}),
 								cl(6, {	-- Death Knight
 									un(2, i(100244)),	-- Grievous Gladiator's Dreadplate Chestpiece
@@ -1446,6 +1446,12 @@ _.Zones =
 							un(2, i(85111)),	-- Elite Malevolent Gladiator's Staff
 							un(2, i(85110)),	-- Elite Malevolent Gladiator's Energy Staff
 							un(2, i(85108)),	-- Elite Malevolent Gladiator's Pike
+							un(2, i(84962)),	-- Malevolent Gladiator's ripper (used to upgrade to elite)
+							un(2, i(84963)),	-- Malevolent Gladiator's render (used to upgrade to elite)
+							un(2, i(84866)),	-- Malevolent Gladiator's endgame (used to upgrade to elite)
+							un(2, i(84867)),	-- Malevolent Gladiator's reprieve (used to upgrade to elite)
+							un(2, i(84965)),	-- Malevolent Gladiator's cleaver(used to upgrade to elite)
+							un(2, i(84966)),	-- Malevolent Gladiator's hacker (used to upgrade to elite)
 							un(2, i(84786)),	-- Malevolent Gladiator's Pike (used to upgrade to elite)
 							un(2, i(84790)),	-- Malevolent Gladiator's Greatsword (used to upgrade to elite)
 							un(2, i(84791)),	-- Malevolent Gladiator's Decapitator (used to upgrade to elite)
