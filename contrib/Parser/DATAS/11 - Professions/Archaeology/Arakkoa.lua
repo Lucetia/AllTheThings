@@ -1,8 +1,8 @@
 profession(794, {	-- Archaeology
-	{	-- Arrakoa
+	{	-- Arrakoa [Currency ID: 829]
 		["currencyID"] = 829,	-- Arakkoa Fragments
 		["g"] = {
-			{	-- Arakkoa Cipher
+			{	-- Arakkoa Cipher [Item ID: 109585]
 				["itemID"] = 109585,	-- Arakkoa Cipher
 				["g"] = {
 					{	-- Ancient Nest Guardian [Item ID:117354; Spell ID:172460]
