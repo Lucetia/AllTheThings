@@ -1,5 +1,4 @@
 profession(794, {	-- Archaeology
-	currency(1174, {	-- Demonic
 	{	-- Demonic Fragments [Currency ID: 1174]
 		["currencyID"] = 1174,	-- Demonic Fragments
 		["g"] = {
@@ -53,7 +52,7 @@ profession(794, {	-- Archaeology
 				["isWeekly"] = true,
 				["g"] = {
 					{	-- Ancient War Remnants
-						["itemID"] = 136362
+						["itemID"] = 136362,
 						["g"] = {	-- Ancient War Remnants
 							{	-- Crystalline Eye of Undravius
 								["itemID"] = 131724,	-- Crystalline Eye of Undravius
@@ -67,7 +66,7 @@ profession(794, {	-- Archaeology
 				["isWeekly"] = true,
 				["g"] = {
 					{	-- Wyrmy Tunkins
-						["itemID"] = 136922	-- Wyrmy Tunkins
+						["itemID"] = 136922,	-- Wyrmy Tunkins
 					},
 				},
 			},
