@@ -16,27 +16,27 @@ profession(794, {	-- Archaeology
 					},
 					{	-- Pristine Ancient Runebound Tome [Item ID:154927; Spell ID:51951]
 						["itemID"] = 154927,	-- Pristine Ancient Runebound Tome
-						["spellID"] = 51951,	-- Pristine Ancient Runebound Tome
+						["questID"] = 51951,	-- Pristine Ancient Runebound Tome
 					},
 					{	-- Pristine Ceremonial Bonesaw [Item ID:154926; Spell ID:51950]
 						["itemID"] = 154926,	-- Pristine Ceremonial Bonesaw
-						["spellID"] = 51950,	-- Pristine Ceremonial Bonesaw
+						["questID"] = 51950,	-- Pristine Ceremonial Bonesaw
 					},
 					{	-- Pristine Disembowling Sickle [Item ID:154928; Spell ID:51952]
 						["itemID"] = 154928,	-- Pristine Disembowling Sickle
-						["spellID"] = 51952,	-- Pristine Disembowling Sickle
+						["questID"] = 51952,	-- Pristine Disembowling Sickle
 					},
 					{	-- Pristine Jagged Blade of the Drust [Item ID:154929; Spell ID:51953]
 						["itemID"] = 154929,	-- Pristine Jagged Blade of the Drust
-						["spellID"] = 51953,	-- Pristine Jagged Blade of the Drust
+						["questID"] = 51953,	-- Pristine Jagged Blade of the Drust
 					},
 					{	-- Pristine Ritual Fetish [Item ID:154930; Spell ID:51954]
 						["itemID"] = 154930,	-- Pristine Ritual Fetish
-						["spellID"] = 51954,	-- Pristine Ritual Fetish
+						["questID"] = 51954,	-- Pristine Ritual Fetish
 					},
 					{	-- Pristine Soul Coffer [Item ID:160742; Spell ID:51955]
 						["itemID"] = 160742,	-- Pristine Soul Coffer
-						["spellID"] = 51955,	-- Pristine Soul Coffer
+						["questID"] = 51955,	-- Pristine Soul Coffer
 					},
 					{	-- Ancient Runebound Tome [Item ID:154922; Spell ID:257716]
 						["itemID"] = 154922,	-- Ancient Runebound Tome
