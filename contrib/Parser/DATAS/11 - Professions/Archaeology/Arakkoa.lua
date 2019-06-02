@@ -53,6 +53,46 @@ profession(794, {	-- Archaeology
 						["itemID"] = 114220,	-- Pristine Talonpriest Mask
 						["questID"] = 36776,	-- Pristine Talonpriest Mask
 					},
+					{	-- Apexis Crystal [Item ID:114204; Spell ID:36756]
+						["itemID"] = 114204,	-- Apexis Crystal
+						["spellID"] = 36756,	-- Apexis Crystal
+					},
+					{	-- Apexis Hieroglyph [Item ID:114205; Spell ID:36753]
+						["itemID"] = 114205,	-- Apexis Hieroglyph
+						["spellID"] = 36753,	-- Apexis Hieroglyph
+					},
+					{	-- Apexis Scroll [Item ID:114206; Spell ID:36750]
+						["itemID"] = 114206,	-- Apexis Scroll
+						["spellID"] = 36750,	-- Apexis Scroll
+					},
+					{	-- Burial Urn [Item ID:114198; Spell ID:36754]
+						["itemID"] = 114198,	-- Burial Urn
+						["spellID"] = 36754,	-- Burial Urn
+					},
+					{	-- Decree Scrolls [Item ID:114199; Spell ID:36755]
+						["itemID"] = 114199,	-- Decree Scrolls
+						["spellID"] = 36755,	-- Decree Scrolls
+					},
+					{	-- Dreamcatcher [Item ID:114197; Spell ID:36757]
+						["itemID"] = 114197,	-- Dreamcatcher
+						["spellID"] = 36757,	-- Dreamcatcher
+					},
+					{	-- Outcast Dreamcatcher [Item ID:114203; Spell ID:36760]
+						["itemID"] = 114203,	-- Outcast Dreamcatcher
+						["spellID"] = 36760,	-- Outcast Dreamcatcher
+					},
+					{	-- Solar Orb [Item ID:114200; Spell ID:36749]
+						["itemID"] = 114200,	-- Solar Orb
+						["spellID"] = 36749,	-- Solar Orb
+					},
+					{	-- Sundial [Item ID:114201; Spell ID:36725]
+						["itemID"] = 114201,	-- Sundial
+						["spellID"] = 36725,	-- Sundial
+					},
+					{	-- Talonpriest Mask [Item ID:114202; Spell ID:36758]
+						["itemID"] = 114202,	-- Talonpriest Mask
+						["spellID"] = 36758,	-- Talonpriest Mask
+					},
 				},
 			},
 		},
