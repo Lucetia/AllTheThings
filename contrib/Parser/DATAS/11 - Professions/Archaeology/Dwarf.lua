@@ -11,11 +11,11 @@ profession(794, {	-- Archaeology
 					{	-- Chalice of the Mountain Kings [Item ID:64373]
 						["itemID"] = 64373,		-- Chalice of the Mountain Kings
 					},
-					{	-- The Innkeeper's Daughter [Item ID:64488]
-						["itemID"] = 64488,		-- The Innkeeper's Daughter
-					},
 					{	-- Staff of Sorcerer-Thane Thaurissan [Item ID:64489]
 						["itemID"] = 64489,		-- Staff of Sorcerer-Thane Thaurissan
+					},
+					{	-- The Innkeeper's Daughter [Item ID:64488]
+						["itemID"] = 64488,		-- The Innkeeper's Daughter
 					},
 					{	-- Belt Buckle with Anvilmar Crest [Item ID:63113; Spell ID:88910]
 						["itemID"] = 63113,	-- Belt Buckle with Anvilmar Crest
