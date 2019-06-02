@@ -45,6 +45,26 @@ profession(794, {	-- Archaeology
 						["itemID"] = 130934,	-- Pristine Orb of Inner Chaos
 						["questID"] = 40362,	-- Pristine Orb of Inner Chaos
 					},
+					{	-- Flayed-Skin Chronicle [Item ID:130917; Spell ID:196481]
+						["itemID"] = 130917,	-- Flayed-Skin Chronicle
+						["spellID"] = 196481,	-- Flayed-Skin Chronicle
+					},
+					{	-- Houndstooth Hauberk [Item ID:130920; Spell ID:196484]
+						["itemID"] = 130920,	-- Houndstooth Hauberk
+						["spellID"] = 196484,	-- Houndstooth Hauberk
+					},
+					{	-- Imp's Cup [Item ID:130916; Spell ID:196480]
+						["itemID"] = 130916,	-- Imp's Cup
+						["spellID"] = 196480,	-- Imp's Cup
+					},
+					{	-- Malformed Abyssal [Item ID:130918; Spell ID:196482]
+						["itemID"] = 130918,	-- Malformed Abyssal
+						["spellID"] = 196482,	-- Malformed Abyssal
+					},
+					{	-- Orb of Inner Chaos [Item ID:130919; Spell ID:196483]
+						["itemID"] = 130919,	-- Orb of Inner Chaos
+						["spellID"] = 196483,	-- Orb of Inner Chaos
+					},
 				},
 			},
 			{	-- Corrupted Studies [Quest ID: 41157]

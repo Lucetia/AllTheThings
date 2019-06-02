@@ -89,81 +89,81 @@ profession(794, {	-- Archaeology
 						["itemID"] = 114146,	-- Pristine Wolfskin Snowshoes
 						["questID"] = 36744,	-- Pristine Wolfskin Snowshoes
 					},
-					{	-- Ancestral Talisman [Item ID:114171; Spell ID:36756]
+					{	-- Ancestral Talisman [Item ID:114171; Spell ID:168305]
 						["itemID"] = 114171,	-- Ancestral Talisman
-						["spellID"] = 36756,	-- Ancestral Talisman
+						["spellID"] = 168305,	-- Ancestral Talisman
 					},
-					{	-- Barbed Fishing Hook [Item ID:114163; Spell ID:36753]
+					{	-- Barbed Fishing Hook [Item ID:114163; Spell ID:168301]
 						["itemID"] = 114163,	-- Barbed Fishing Hook
-						["spellID"] = 36753,	-- Barbed Fishing Hook
+						["spellID"] = 168301,	-- Barbed Fishing Hook
 					},
-					{	-- Blackrock Razor [Item ID:114157; Spell ID:36750]
+					{	-- Blackrock Razor [Item ID:114157; Spell ID:168298]
 						["itemID"] = 114157,	-- Blackrock Razor
-						["spellID"] = 36750,	-- Blackrock Razor
+						["spellID"] = 168298,	-- Blackrock Razor
 					},
-					{	-- Calcified Eye In a Jar [Item ID:114165; Spell ID:36754]
+					{	-- Calcified Eye In a Jar [Item ID:114165; Spell ID:168302]
 						["itemID"] = 114165,	-- Calcified Eye In a Jar
-						["spellID"] = 36754,	-- Calcified Eye In a Jar
+						["spellID"] = 168302,	-- Calcified Eye In a Jar
 					},
-					{	-- Ceremonial Tattoo Needles [Item ID:114167; Spell ID:36755]
+					{	-- Ceremonial Tattoo Needles [Item ID:114167; Spell ID:168303]
 						["itemID"] = 114167,	-- Ceremonial Tattoo Needles
-						["spellID"] = 36755,	-- Ceremonial Tattoo Needles
+						["spellID"] = 168303,	-- Ceremonial Tattoo Needles
 					},
-					{	-- Cracked Ivory Idol [Item ID:114169; Spell ID:36757]
+					{	-- Cracked Ivory Idol [Item ID:114169; Spell ID:168304]
 						["itemID"] = 114169,	-- Cracked Ivory Idol
-						["spellID"] = 36757,	-- Cracked Ivory Idol
+						["spellID"] = 168304,	-- Cracked Ivory Idol
 					},
-					{	-- Doomsday Prophecy [Item ID:114177; Spell ID:36760]
+					{	-- Doomsday Prophecy [Item ID:114177; Spell ID:168308]
 						["itemID"] = 114177,	-- Doomsday Prophecy
-						["spellID"] = 36760,	-- Doomsday Prophecy
+						["spellID"] = 168308,	-- Doomsday Prophecy
 					},
-					{	-- Elemental Bellows [Item ID:114155; Spell ID:36749]
+					{	-- Elemental Bellows [Item ID:114155; Spell ID:168297]
 						["itemID"] = 114155,	-- Elemental Bellows
-						["spellID"] = 36749,	-- Elemental Bellows
+						["spellID"] = 168297,	-- Elemental Bellows
 					},
-					{	-- Fang-Scarred Frostwolf Axe [Item ID:114141; Spell ID:36725]
+					{	-- Fang-Scarred Frostwolf Axe [Item ID:114141; Spell ID:168290]
 						["itemID"] = 114141,	-- Fang-Scarred Frostwolf Axe
-						["spellID"] = 36725,	-- Fang-Scarred Frostwolf Axe
+						["spellID"] = 168290,	-- Fang-Scarred Frostwolf Axe
 					},
-					{	-- Flask of Blazegrease [Item ID:114173; Spell ID:36758]
+					{	-- Flask of Blazegrease [Item ID:114173; Spell ID:168306]
 						["itemID"] = 114173,	-- Flask of Blazegrease
-						["spellID"] = 36758,	-- Flask of Blazegrease
+						["spellID"] = 168306,	-- Flask of Blazegrease
 					},
-					{	-- Frostwolf Ancestry Scrimshaw [Item ID:114143; Spell ID:36743]
+					{	-- Frostwolf Ancestry Scrimshaw [Item ID:114143; Spell ID:168291]
 						["itemID"] = 114143,	-- Frostwolf Ancestry Scrimshaw
-						["spellID"] = 36743,	-- Frostwolf Ancestry Scrimshaw
+						["spellID"] = 168291,	-- Frostwolf Ancestry Scrimshaw
 					},
-					{	-- Gronn-Tooth Necklace [Item ID:114175; Spell ID:36759]
+					{	-- Gronn-Tooth Necklace [Item ID:114175; Spell ID:168307]
 						["itemID"] = 114175,	-- Gronn-Tooth Necklace
-						["spellID"] = 36759,	-- Gronn-Tooth Necklace
+						["spellID"] = 168307,	-- Gronn-Tooth Necklace
 					},
-					{	-- Hooked Dagger [Item ID:114161; Spell ID:36752]
+					{	-- Hooked Dagger [Item ID:114161; Spell ID:168300]
 						["itemID"] = 114161,	-- Hooked Dagger
-						["spellID"] = 36752,	-- Hooked Dagger
+						["spellID"] = 168300,	-- Hooked Dagger
 					},
-					{	-- Metalworker's Hammer [Item ID:114153; Spell ID:36748]
+					{	-- Metalworker's Hammer [Item ID:114153; Spell ID:168296]
 						["itemID"] = 114153,	-- Metalworker's Hammer
-						["spellID"] = 36748,	-- Metalworker's Hammer
+						["spellID"] = 168296,	-- Metalworker's Hammer
 					},
-					{	-- Screaming Bullroarer [Item ID:114149; Spell ID:36746]
+					{	-- Screaming Bullroarer [Item ID:114149; Spell ID:168294]
 						["itemID"] = 114149,	-- Screaming Bullroarer
-						["spellID"] = 36746,	-- Screaming Bullroarer
+						["spellID"] = 168294,	-- Screaming Bullroarer
 					},
-					{	-- Warsinger's Drums [Item ID:114147; Spell ID:36745]
+					{	-- Warsinger's Drums [Item ID:114147; Spell ID:168293]
 						["itemID"] = 114147,	-- Warsinger's Drums
-						["spellID"] = 36745,	-- Warsinger's Drums
+						["spellID"] = 168293,	-- Warsinger's Drums
 					},
-					{	-- Warsong Ceremonial Pike [Item ID:114151; Spell ID:36747]
+					{	-- Warsong Ceremonial Pike [Item ID:114151; Spell ID:168295]
 						["itemID"] = 114151,	-- Warsong Ceremonial Pike
-						["spellID"] = 36747,	-- Warsong Ceremonial Pike
+						["spellID"] = 168295,	-- Warsong Ceremonial Pike
 					},
-					{	-- Weighted Chopping Axe [Item ID:114159; Spell ID:36751]
+					{	-- Weighted Chopping Axe [Item ID:114159; Spell ID:168299]
 						["itemID"] = 114159,	-- Weighted Chopping Axe
-						["spellID"] = 36751,	-- Weighted Chopping Axe
+						["spellID"] = 168299,	-- Weighted Chopping Axe
 					},
-					{	-- Wolfskin Snowshoes [Item ID:114145; Spell ID:36744]
+					{	-- Wolfskin Snowshoes [Item ID:114145; Spell ID:168292]
 						["itemID"] = 114145,	-- Wolfskin Snowshoes
-						["spellID"] = 36744,	-- Wolfskin Snowshoes
+						["spellID"] = 168292,	-- Wolfskin Snowshoes
 					},
 				},
 			},

@@ -53,45 +53,45 @@ profession(794, {	-- Archaeology
 						["itemID"] = 114220,	-- Pristine Talonpriest Mask
 						["questID"] = 36776,	-- Pristine Talonpriest Mask
 					},
-					{	-- Apexis Crystal [Item ID:114204; Spell ID:36756]
+					{	-- Apexis Crystal [Item ID:114204; Spell ID:168328]
 						["itemID"] = 114204,	-- Apexis Crystal
-						["spellID"] = 36756,	-- Apexis Crystal
+						["spellID"] = 168328,	-- Apexis Crystal
 					},
-					{	-- Apexis Hieroglyph [Item ID:114205; Spell ID:36753]
+					{	-- Apexis Hieroglyph [Item ID:114205; Spell ID:168329]
 						["itemID"] = 114205,	-- Apexis Hieroglyph
-						["spellID"] = 36753,	-- Apexis Hieroglyph
+						["spellID"] = 168329,	-- Apexis Hieroglyph
 					},
-					{	-- Apexis Scroll [Item ID:114206; Spell ID:36750]
+					{	-- Apexis Scroll [Item ID:114206; Spell ID:168330]
 						["itemID"] = 114206,	-- Apexis Scroll
-						["spellID"] = 36750,	-- Apexis Scroll
+						["spellID"] = 168330,	-- Apexis Scroll
 					},
-					{	-- Burial Urn [Item ID:114198; Spell ID:36754]
+					{	-- Burial Urn [Item ID:114198; Spell ID:168322]
 						["itemID"] = 114198,	-- Burial Urn
-						["spellID"] = 36754,	-- Burial Urn
+						["spellID"] = 168322,	-- Burial Urn
 					},
-					{	-- Decree Scrolls [Item ID:114199; Spell ID:36755]
+					{	-- Decree Scrolls [Item ID:114199; Spell ID:168323]
 						["itemID"] = 114199,	-- Decree Scrolls
-						["spellID"] = 36755,	-- Decree Scrolls
+						["spellID"] = 168323,	-- Decree Scrolls
 					},
-					{	-- Dreamcatcher [Item ID:114197; Spell ID:36757]
+					{	-- Dreamcatcher [Item ID:114197; Spell ID:168321]
 						["itemID"] = 114197,	-- Dreamcatcher
-						["spellID"] = 36757,	-- Dreamcatcher
+						["spellID"] = 168321,	-- Dreamcatcher
 					},
-					{	-- Outcast Dreamcatcher [Item ID:114203; Spell ID:36760]
+					{	-- Outcast Dreamcatcher [Item ID:114203; Spell ID:168327]
 						["itemID"] = 114203,	-- Outcast Dreamcatcher
-						["spellID"] = 36760,	-- Outcast Dreamcatcher
+						["spellID"] = 168327,	-- Outcast Dreamcatcher
 					},
-					{	-- Solar Orb [Item ID:114200; Spell ID:36749]
+					{	-- Solar Orb [Item ID:114200; Spell ID:168324]
 						["itemID"] = 114200,	-- Solar Orb
-						["spellID"] = 36749,	-- Solar Orb
+						["spellID"] = 168324,	-- Solar Orb
 					},
-					{	-- Sundial [Item ID:114201; Spell ID:36725]
+					{	-- Sundial [Item ID:114201; Spell ID:168325]
 						["itemID"] = 114201,	-- Sundial
-						["spellID"] = 36725,	-- Sundial
+						["spellID"] = 168325,	-- Sundial
 					},
-					{	-- Talonpriest Mask [Item ID:114202; Spell ID:36758]
+					{	-- Talonpriest Mask [Item ID:114202; Spell ID:168326]
 						["itemID"] = 114202,	-- Talonpriest Mask
-						["spellID"] = 36758,	-- Talonpriest Mask
+						["spellID"] = 168326,	-- Talonpriest Mask
 					},
 				},
 			},
