@@ -1293,6 +1293,20 @@ _.Zones =
 						["qg"] = 107660,	-- Bolas Skyfeather
 					}),
 					
+
+					q(40345, {	-- Burn the Candle at Both Ends
+						["sourceQuests"] = { 40339 },	-- Candle of Command
+						["coord"] = { 55.2, 41.8, 650 },
+						["qg"] = 97130,	-- Bluewax Gatekeeper
+					}),
+
+					
+					q(40339, {	-- Candle of Command
+						["sourceQuests"] = { 39769 },	-- The Gates of Wax
+						["coord"] = { 55.2, 41.8, 650 },
+						["qg"] = 97130,	-- Bluewax Gatekeeper
+					}),
+
 					
 					q(39768, {	-- Candle to the Grave
 						["coord"] = { 54.7, 45.0, 650 },
@@ -1300,6 +1314,20 @@ _.Zones =
 					}),
 
 
+					q(39772, {	-- Can't Hold a Candle To You
+						["sourceQuests"] = { 40345 },	-- Burn the Candle at Both Ends
+						["coord"] = { 55.2, 41.8, 650 },
+						["qg"] = 97130,	-- Bluewax Gatekeeper
+						["g"] = {
+							i(130275),	-- Chain of Bossing Around
+							i(130286),	-- Thunderpeak Breastplate
+							i(130285),	-- Whitewater Chestwrap
+							i(130284),	-- Drogstitch Chestguard
+							i(130283),	-- Snowblind Vestments
+						},
+					}),
+					
+					
 					q(42622, {	-- Ceremonial Drums
 						["sourceQuests"] = { 39992 },	-- Huln's War - The Nathrezim
 						["coord"] = { 53.4, 78.0, 652 },	-- Thunder Totem
@@ -1759,6 +1787,16 @@ _.Zones =
 					}),
 
 
+					q(39769, {	-- The Gates of Wax
+						["sourceQuests"] = {
+							39768,	-- Candle to the Grave
+							39765,	-- Wax On, Wax Off
+						},
+						["coord"] = { 54.7, 44.9, 650 },
+						["qg"] = 96984,	-- Oenia Skyhorn
+					}),
+
+					
 					q(39580, {	-- The High Chieftain
 						["sourceQuests"] = { 39579 },	-- The Backdoor
 						["coord"] = { 47.4, 84.7, 650 },
@@ -1914,6 +1952,16 @@ _.Zones =
 					}),
 
 					
+					q(39656, {	-- Wolf Pack Attack
+						["sourceQuests"] = { 39670 },	-- Critter Scatter Shot
+						["coord"] = { 57.6, 56.5, 650 },
+						["qg"] = 96513,	-- Razik Gazbolt
+						["g"] = {
+							i(131933),	-- Critter Hand Cannon (TOY!)
+						},	
+					}),
+					
+					
 					q(39134, {	-- Wrathshard
 						["sourceQuests"] = { 38909 },	-- Get to High Ground
 						["coord"] = { 49.0, 55.2, 650 },
@@ -2004,21 +2052,8 @@ _.Zones =
 						i(132117),	-- 
 					}),
 					q(39386),	-- Procuring a Prototype
-					q(39656,  {  	-- Wolf Pack Attack
-						i(131933), 		-- Critter Hand Cannon
-					}),
 					q(39417, {	-- Rating Razik
 						["isBreadcrumb"] = true,
-					}),
-					q(39769),	-- The Gates of Wax
-					q(40339),	-- Candle of Command
-					q(40345),	-- Burn the Candle at Both Ends
-					q(39772, {	-- Can't Hold a Candle To You
-						i(130286),
-						i(130285),
-						i(130284),
-						i(130283),
-						i(130275),	-- Chain of Bossing Around
 					}),
 					q(39440),	-- You Lift, Brul?
 					q(39437),	-- Deep in the Cavern
@@ -2538,9 +2573,17 @@ _.Zones =
 					}),
 					n(100495, {	-- Devouring Darkness
 						["description"] = "|cff66ccffClick all candles to summon the mob.|r",
+						["coords"] = {
+							{ 55.1, 44.3, 650 },	-- cave entrance
+							{ 54.5, 41.4, 650 },	-- actual rare
+						},
 						["questID"] = 40414,
 						["g"] = {
-							i(131780),
+							i(131780),	-- Void Slippers
+							{	-- Devouring Darkness (Adventurer of Highmountain)
+								["achievementID"] = 11264,	-- Adventurer of Highmountain
+								["criteriaID"] = 18,	-- Devouring Darkness
+							},
 						},
 					}),
 					n(96072,  {	-- Durguth
@@ -2559,8 +2602,13 @@ _.Zones =
 					}),
 					n(96590,  {	-- Gurbog da Basher
 						["questID"] = 40347,
+						["coord"] = { 56.5, 60.7, 650 },
 						["g"] = {
 							i(131775),	-- Da Basher's Toy Armor
+							{	-- Gurbog da Basher (Adventurer of Highmountain)
+								["achievementID"] = 11264,	-- Adventurer of Highmountain
+								["criteriaID"] = 5,	-- Gurbog da Basher
+							},
 						},
 					}),
 					n(112419, {	-- Kuglaroth
@@ -2588,8 +2636,19 @@ _.Zones =
 					}),
 					n(96410,  {	-- Majestic Elderhorn
 						["questID"] = 39646,
+						["coords"] = {
+							{ 47.5, 32.9, 650 },	-- spawn point - other coords are its path
+							{ 49.2, 29.0, 650 },
+							{ 48.6, 25.2, 650 },
+							{ 45.2, 25.8, 650 },
+							{ 45.4, 30.4, 650 },
+						},
 						["g"] = {
-							i(131900), 	-- Toy
+							i(131900), 	-- Magestic Elderhorn Hoof (TOY!)
+							{	-- Majestic Elderhorn (Adventurer of Highmountain)
+								["achievementID"] = 11264,	-- Adventurer of Highmountain
+								["criteriaID"] = 11,	-- Majestic Elderhorn
+							},
 						},
 					}),
 					n(98311,  {	-- Mrrklr
@@ -2653,6 +2712,17 @@ _.Zones =
 							{	-- Skywhisker Taskmasker (Adventurer of Highmountain)
 								["achievementID"] = 11264,	-- Adventurer of Highmountain
 								["criteriaID"] = 7,	-- Skywhisker Taskmasker
+							},
+						},
+					}),
+					n(98890,  {	-- Slumber
+						["questID"] = 40175,
+						["coord"] = { 41.4, 31.9, 650 },
+						["g"] = {
+							i(131921),	-- Dreamflow Collar
+							{	-- Slumbering Bear (Adventurer of Highmountain)
+								["achievementID"] = 11264,	-- Adventurer of Highmountain
+								["criteriaID"] = 22,	-- Slumbering Bear
 							},
 						},
 					}),
@@ -2723,7 +2793,6 @@ _.Zones =
 	--				n(104484, { 	-- Olokk the Shipbreaker 	}),
 	--				n(104524, { 	-- Ormagrogg 	}),
 	--				n(97102, { 		-- Ram'Pag drops nothing of note			}),
-	--				n(98890, { 		-- Slumber 	}),
 	--				n(97928, { 		-- Tamed Coralback 	}),
 --]]
 				}),
