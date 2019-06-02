@@ -1,6 +1,6 @@
 profession(794, {	-- Archaeology
-	{	-- Draenor Clans Fragments [Currency ID: 821]
-		["currencyID"] = 821,	-- Draenor Clans Fragments
+	{	-- Draenor Clans Archaeology Fragments [Currency ID: 821]
+		["currencyID"] = 821,	-- Draenor Clans Archaeology Fragments
 		["g"] = {
 			{	-- Draenor Clan Orator Cane
 				["itemID"] = 108439,	-- Draenor Clan Orator Cane

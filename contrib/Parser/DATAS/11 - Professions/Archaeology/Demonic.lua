@@ -1,6 +1,6 @@
 profession(794, {	-- Archaeology
-	{	-- Demonic Fragments [Currency ID: 1174]
-		["currencyID"] = 1174,	-- Demonic Fragments
+	{	-- Demonic Archaeology Fragments [Currency ID: 1174]
+		["currencyID"] = 1174,	-- Demonic Archaeology Fragments
 		["g"] = {
 			{	-- Mark of the Deceiver [Item ID: 130905]
 				["itemID"] = 130905,	-- Mark of the Deceiver

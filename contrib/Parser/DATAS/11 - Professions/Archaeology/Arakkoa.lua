@@ -1,6 +1,6 @@
 profession(794, {	-- Archaeology
-	{	-- Arrakoa [Currency ID: 829]
-		["currencyID"] = 829,	-- Arakkoa Fragments
+	{	-- Arrakoa Archaeology Fragments [Currency ID: 829]
+		["currencyID"] = 829,	-- Arakkoa Archaeology Fragments
 		["g"] = {
 			{	-- Arakkoa Cipher [Item ID: 109585]
 				["itemID"] = 109585,	-- Arakkoa Cipher
